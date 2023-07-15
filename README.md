@@ -13,6 +13,6 @@ Sou um entusiasta em Ciência de Dados 🎲 com conhecimentos em Python 🐍, Pa
 
 Estou ansioso para enfrentar novos desafios e aplicar meus conhecimentos em Ciência de Dados para ajudá-lo a obter os melhores resultados possíveis. Vamos trabalhar juntos! 🚀📈
 
-Informações para contato:
-- 📧 E-mail: thiagoreys1@gmail.com
-- 📱 Whats: (99) 98518-8463
+### 📞 Informações para contato:
+- 📧 **E-mail:** thiagoreys1@gmail.com
+- 📋 **Likedin:** [thiago-reis-fisico-dev](www.linkedin.com/in/thiago-reis-fisico-dev)
