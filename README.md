@@ -15,4 +15,4 @@ Estou ansioso para enfrentar novos desafios e aplicar meus conhecimentos em Ciê
 
 ### Informações para contato:
 - 📧 **E-mail:** thiagoreys1@gmail.com
-- 📋 **Likedin:** [thiago-reis-fisico-dev](www.linkedin.com/in/thiago-reis-fisico-dev)
+- 📋 **Likedin:** [thiago-reys](www.linkedin.com/in/thiago-reys)
