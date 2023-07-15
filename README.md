@@ -1,4 +1,4 @@
-### Olá, eu sou o Thiago Reis! 🚀
+# Olá, eu sou o Thiago Reis! 🚀
 Bem-vindo ao meu perfil! 👋😁
 
 Sou um entusiasta em Ciência de Dados 🎲 com conhecimentos em Python 🐍, Pandas 🐼 e NumPy 📊. Aqui está um resumo do que eu posso oferecer:
