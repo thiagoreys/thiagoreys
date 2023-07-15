@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, eu sou o Thiago Reis! 🚀
+Bem-vindo ao meu perfil! 👋😁
 
-<!--
-**thiagoreys123/thiagoreys123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um entusiasta em Ciência de Dados 🎲 com conhecimentos em Python 🐍, Pandas 🐼 e NumPy 📊. Aqui está um resumo do que eu posso oferecer:
 
-Here are some ideas to get you started:
+- 🧹 Limpeza e Tratamento de Dados: Transformo dados brutos em conjuntos de dados limpos e confiáveis, garantindo a qualidade das informações.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔍 Seleção e Agrupamento de Dados: Seleciono e agrupo dados de forma eficiente, permitindo a análise de padrões e tendências relevantes.
+
+- 📂 Diversidade de Arquivos: Tenho experiência em lidar com uma variedade de formatos de arquivo, como CSV, JSON, XML, bancos de dados SQL e planilhas Excel.
+
+- 🔀 Transformação e Manipulação de Dados: Tenho habilidade em transformar e manipular dados para extrair insights valiosos e gerar informações úteis para a tomada de decisões.
+
+Estou ansioso para enfrentar novos desafios e aplicar meus conhecimentos em Ciência de Dados para ajudá-lo a obter os melhores resultados possíveis. Vamos trabalhar juntos! 🚀📈
 -->
