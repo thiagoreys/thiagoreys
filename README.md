@@ -7,7 +7,7 @@ Sou um entusiasta em Ciência de Dados 🎲 com conhecimentos em Python 🐍, Pa
 
 - 🔍 Seleção e Agrupamento de Dados: Seleciono e agrupo dados de forma eficiente, permitindo a análise de padrões e tendências relevantes.
 
-- 📂 Diversidade de Arquivos: Tenho experiência em lidar com uma variedade de formatos de arquivo, como CSV, JSON, HTML e XML, Planilhas Excel e Banco de Dados SQL.
+- 📂 Diversidade de Arquivos: Tenho experiência em lidar com uma variedade de formatos de arquivo, como CSV, JSON, HTML, XML, Planilhas Excel e Banco de Dados SQL.
 
 - 🔀 Transformação e Manipulação de Dados: Tenho habilidade em transformar e manipular dados para extrair insights valiosos e gerar informações úteis para a tomada de decisões.
 
