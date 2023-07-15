@@ -1,7 +1,8 @@
 # Olá, eu sou o Thiago Reis! 🚀
 Bem-vindo ao meu perfil! 👋😁
 
-Sou um estudante de **Física** ⚛️ entusiasta em **Ciência de Dados** 🎲.
+- ⚛️ Estudante de Física - IFMA
+- 🎲 Ciência de Dados - Alura
 
 ### Habilidades
 Aqui está um resumo do que eu posso oferecer:
