@@ -11,9 +11,9 @@ Aqui está um resumo do que eu posso oferecer:
 
 - 🔍 Seleção e Agrupamento de Dados: Seleciono e agrupo dados de forma eficiente, permitindo a análise de padrões e tendências relevantes.
 
-- 📂 Diversidade de Arquivos: Trabalho com uma variedade de arquivo, como CSV, JSON, HTML, XML, Planilhas Excel e Banco de Dados SQL.
+- 📂 Diversidade de Arquivos: Trabalho com arquivos CSV, JSON, HTML, XML, Planilhas Excel e Banco de Dados SQL.
 
-- 🔀 Manipulação de Dados: Extraio informações valiosas de dados para geração de insights, por meio de gráficos e estatísticas.
+- 🔀 Manipulação de Dados: Manipulo os dados para extrair informações valiosas para geração de insights, por meio de gráficos e estatísticas.
 
 Estou ansioso para enfrentar novos desafios e aplicar meus conhecimentos em Ciência de Dados para ajudá-lo a obter os melhores resultados possíveis. Vamos trabalhar juntos! 🚀📈
 
