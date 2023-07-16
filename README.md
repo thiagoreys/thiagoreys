@@ -13,7 +13,7 @@ Aqui está um resumo do que eu posso oferecer:
 
 - 📂 **Diversidade de Arquivos:** Trabalho com arquivos CSV, JSON, HTML, XML, Planilhas Excel e Banco de Dados SQL.
 
-- 🔀 **Manipulação de Dados:** Trabalho os dados para extrair informações valiosas por meio de gráficos e estatísticas.
+- 🔀 **Manipulação de Dados:** Manipulo os dados para extrair informações valiosas por meio de gráficos e estatísticas.
 
 Estou ansioso para enfrentar novos desafios e aplicar meus conhecimentos em Ciência de Dados para ajudá-lo a obter os melhores resultados possíveis. Vamos trabalhar juntos! 🚀📈
 
