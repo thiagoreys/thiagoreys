@@ -9,7 +9,7 @@ Aqui está um resumo do que eu posso oferecer:
 
 - 🧹 **Limpeza e Tratamento de Dados:** Transformo dados brutos em dados limpos e confiáveis, garantindo a qualidade das informações.
 
-- 🔍 **Seleção e Agrupamento de Dados:** Seleciono e agrupo dados de forma eficiente, permitindo a análise de padrões e tendências relevantes.
+- 🔍 **Seleção e Agrupamento de Dados:** Seleciono e agrupo dados de forma eficiente, permitindo a análise de padrões e tendências.
 
 - 📂 **Diversidade de Arquivos:** Trabalho com arquivos CSV, JSON, HTML, XML, Planilhas Excel e Banco de Dados SQL.
 
