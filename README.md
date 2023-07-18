@@ -16,7 +16,7 @@ Bem-vindo ao meu perfil! 👋😁
 
 Estou ansioso para enfrentar novos desafios e aplicar meus conhecimentos para ajudá-lo a obter os melhores resultados possíveis. 🚀📈
 
-## Ferramentas:
+## Ferramentas
 
 <section>
  <!-- Language icons -->
