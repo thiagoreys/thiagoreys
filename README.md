@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil! 👋😁
 
 - 🧹 Limpeza e Tratamento de Dados.
 - 🔍 Seleção e Agrupamento de Dados.
-- 📂 Diversidade de Arquivos: CSV, JSON, HTML, XML, Planilhas Excel e Banco de Dados SQL.
+- 📂 Trabalhar com diversidade de arquivos: CSV, JSON, HTML, XML, Planilhas Excel e Banco de Dados SQL.
 - 📊 Geração de Gráficos e Estatísticas para análise de tendências de mercado.
 
 Estou ansioso para enfrentar novos desafios e aplicar meus conhecimentos para ajudá-lo a obter os melhores resultados possíveis. 🚀📈
