@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil! 👋😁
 - 🎲 Ciência de Dados - Alura
 
 ## Competências
-Tenho conhecimentos do básico ao avançado em Python e suas bibliotecas de Análise de Dados. Aqui está um resumo do que eu posso oferecer:
+Tenho expertise em Python e suas bibliotecas de Análise de Dados. Aqui está um resumo do que eu posso oferecer:
 
 - 🧹 **Limpeza e Tratamento de Dados:** Transformo dados brutos em dados limpos e confiáveis, garantindo a qualidade das informações.
 
