@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil! 👋😁
 ## Competências
 - Tenho expertise em Python e suas principais bibliotecas de Análise de Dados.
 
-## Minhas Habilidades
+## Habilidades
 
 - 🧹 Limpeza e Tratamento de Dados.
 - 🔍 Seleção e Agrupamento de Dados.
