@@ -4,12 +4,12 @@ Bem-vindo ao meu perfil! 👋😁
 - ⚛️ Estudante de Física - IFMA
 - 🎲 Ciência de Dados - Alura
 
-## Competências
+## Competências Dev
 - Tenho domínio em programação em Python do básico ao avançado, até a Progamação Orientada a Objetos (OOP).
 - Ultimamente tenho mergulhado nos estudos de Ciência de Dados.
 - Já concluir diversos cursos e elaborei alguns pequenos projetos.
 
-# Habilidades em Data Science
+## Habilidades Data Science
 - 🧹 Limpeza e tratamento de dados.
 - 🔍 Seleção e agrupamento de dados.
 - 📂 Diversidade de arquivos: CSV, JSON, HTML, XML, Planilhas Excel e Banco de dados SQL.
