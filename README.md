@@ -5,14 +5,14 @@ Bem-vindo ao meu perfil! 👋😁
 - 🎲 Ciência de Dados - Alura
 
 ## Competências
-- Tenho expertise em **Python** e suas principais bibliotecas de **Análise de Dados**.
+- Tenho domínio em programação em Python do básico ao avançado, desde a elaboração de funções até a Progamação Orientada a Objetos (OOP).
+- Ultimamente tenho mergulhado nos estudos de Ciência de Dados, já concluir diversos cursos na plataforma Alura e elaborei alguns pequenos projetos.
 
-## Habilidades
-
-- 🧹 Limpeza e Tratamento de Dados.
-- 🔍 Seleção e Agrupamento de Dados.
-- 📂 Trabalhar com diversidade de arquivos: CSV, JSON, HTML, XML, Planilhas Excel e Banco de Dados SQL.
-- 📊 Geração de Gráficos e Estatísticas para análise de tendências de mercado.
+# Habilidades em Data Science
+- 🧹 Limpeza e tratamento de dados.
+- 🔍 Seleção e agrupamento de dados.
+- 📂 Diversidade de arquivos: CSV, JSON, HTML, XML, Planilhas Excel e Banco de dados SQL.
+- 📊 Geração de gráficos e estatísticas para analise de tendências de mercado.
 
 Estou ansioso para enfrentar novos desafios e aplicar meus conhecimentos para ajudá-lo a obter os melhores resultados possíveis. 🚀📈
 
