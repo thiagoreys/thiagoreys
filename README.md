@@ -6,7 +6,8 @@ Bem-vindo ao meu perfil! 👋😁
 
 ## Competências
 - Tenho domínio em programação em Python do básico ao avançado, até a Progamação Orientada a Objetos (OOP).
-- Ultimamente tenho mergulhado nos estudos de Ciência de Dados, já concluir diversos cursos e elaborei alguns pequenos projetos.
+- Ultimamente tenho mergulhado nos estudos de Ciência de Dados.
+- Já concluir diversos cursos e elaborei alguns pequenos projetos.
 
 # Habilidades em Data Science
 - 🧹 Limpeza e tratamento de dados.
