@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil! 👋😁
 - 🎲 Ciência de Dados - Alura
 
 ## Competências
-- Tenho domínio em programação em Python do básico ao avançado, desde a elaboração de funções até a Progamação Orientada a Objetos (OOP).
+- Tenho domínio em programação em Python do básico ao avançado, até a Progamação Orientada a Objetos (OOP).
 - Ultimamente tenho mergulhado nos estudos de Ciência de Dados, já concluir diversos cursos na plataforma Alura e elaborei alguns pequenos projetos.
 
 # Habilidades em Data Science
