@@ -1,5 +1,4 @@
 # Olá, eu sou o Thiago Reis! 🚀
-Bem-vindo ao meu perfil! 👋😁
 
 - ⚛️ Estudante de Física - IFMA
 - 🎲 Ciência de Dados - Alura
