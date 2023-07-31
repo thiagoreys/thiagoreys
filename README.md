@@ -11,8 +11,9 @@
 ## Habilidades Data Science
 - 🧹 Limpeza e tratamento de dados.
 - 🔍 Seleção e agrupamento de dados.
-- 📂 Diversidade de arquivos: CSV, JSON, HTML, XML, Planilhas Excel e Banco de dados SQL.
+- 📂 Trabalhar com diversidade de arquivos: CSV, JSON, HTML, XML, Planilhas Excel e Banco de dados SQL.
 - 📊 Geração de gráficos e estatísticas para analise de tendências de mercado.
+- 🤖 Machine Learning com SKlearn.
 
 Estou ansioso para enfrentar novos desafios e aplicar meus conhecimentos para ajudá-lo a obter os melhores resultados possíveis. 🚀📈
 
