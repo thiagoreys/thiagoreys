@@ -9,8 +9,7 @@
 - Já concluir diversos cursos e elaborei alguns pequenos projetos.
 
 ## Habilidades Data Science
-- 🧹 Limpeza e tratamento de dados.
-- 🔍 Seleção e agrupamento de dados.
+- 👨‍💻 Limpeza, tratamento, seleção e agrupamento de dados.
 - 📂 Trabalhar com diversidade de arquivos: CSV, JSON, HTML, XML, Planilhas Excel e Banco de dados SQL.
 - 📊 Geração de gráficos e estatísticas para analise de tendências de mercado.
 - 🤖 Machine Learning com SKlearn.
