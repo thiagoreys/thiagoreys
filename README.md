@@ -15,11 +15,6 @@
 
 Já concluir diversos cursos e elaborei alguns pequenos projetos. Estou ansioso para enfrentar novos desafios e aplicar meus conhecimentos para ajudá-lo a obter os melhores resultados possíveis. 🚀📈
 
-</br>
-<p align='center'>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thiagoreys&show_icons=true&theme=dark&rank_icon=github"></a>
-</p>
-
 ## Ferramentas
 
 <section>
@@ -36,6 +31,11 @@ Já concluir diversos cursos e elaborei alguns pequenos projetos. Estou ansioso 
  <!-- Git -->
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code></a>
 </section>
+
+</br>
+<p align='center'>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thiagoreys&show_icons=true&theme=dark&rank_icon=github"></a>
+</p>
 
 ### Informações para contato:
 - 📧 **E-mail:** thiagoreys1@gmail.com
