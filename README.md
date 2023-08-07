@@ -30,6 +30,10 @@ Já concluir diversos cursos e elaborei alguns pequenos projetos. Estou ansioso 
  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="seaborn" width="40" height="40"/></code></a>
  <!-- Git -->
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code></a>
+ <!-- Seaborn -->
+ <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><code><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></code></a>
+ <!-- Scikit Learn -->
+ <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></code></a>
 </section>
 
 </br>
