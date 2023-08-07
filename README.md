@@ -36,11 +36,18 @@ Já concluir diversos cursos e elaborei alguns pequenos projetos. Estou ansioso 
  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><code><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></code></a>
 </section>
 
+### Informações para contato:
+- 📧 **E-mail:** thiagoreys1@gmail.com
+- 📋 **Likedin:** [thiago-reys](https://www.linkedin.com/in/thiago-reys)
+
+<br>
+<div align="center">
+  <!-- <a href="https://github.com/Alm3ida">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alm3ida&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alm3ida&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+
 </br>
 <p align='center'>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thiagoreys&show_icons=true&theme=dark&rank_icon=github"></a>
 </p>
-
-### Informações para contato:
-- 📧 **E-mail:** thiagoreys1@gmail.com
-- 📋 **Likedin:** [thiago-reys](https://www.linkedin.com/in/thiago-reys)
