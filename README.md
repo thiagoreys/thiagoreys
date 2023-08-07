@@ -16,15 +16,8 @@
 Já concluir diversos cursos e elaborei alguns pequenos projetos. Estou ansioso para enfrentar novos desafios e aplicar meus conhecimentos para ajudá-lo a obter os melhores resultados possíveis. 🚀📈
 
 </br>
-
 <p align='center'>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thiagoreys&show_icons=true&theme=dark"></a>
-</p>
-
-</br>
-
-<p align='center'>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thiagoreys&theme=tokyonight&show_icons=true"></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thiagoreys&show_icons=true&theme=dark&rank_icon=github"></a>
 </p>
 
 ## Ferramentas
