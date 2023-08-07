@@ -46,8 +46,3 @@ Já concluir diversos cursos e elaborei alguns pequenos projetos. Estou ansioso 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alm3ida&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alm3ida&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-
-</br>
-<p align='center'>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=thiagoreys&show_icons=true&theme=dark&rank_icon=github"></a>
-</p>
