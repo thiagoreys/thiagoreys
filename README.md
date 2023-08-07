@@ -1,20 +1,19 @@
 # Olá, eu sou o Thiago Reis! 🚀
 
-- ⚛️ Estudante de Física - IFMA
+- ⚛️ Licenciando em Física - IFMA
 - 🎲 Ciência de Dados - Alura
 
-## Competências Dev
-- Tenho domínio em programação em Python do básico ao avançado, até a Progamação Orientada a Objetos (OOP).
-- Ultimamente tenho mergulhado nos estudos de Ciência de Dados.
-- Já concluir diversos cursos e elaborei alguns pequenos projetos.
+# Competências Dev
 
-## Habilidades Data Science
-- 👨‍💻 Limpeza, tratamento, seleção e agrupamento de dados.
-- 📂 Trabalhar com diversidade de arquivos: CSV, JSON, HTML, XML, Planilhas Excel e Banco de dados SQL.
-- 📊 Geração de gráficos e estatísticas para analise de tendências de mercado.
-- 🤖 Machine Learning com SKlearn.
+- Python Avançado.
+- Elaboração de Módulos e Funções.
+- Programação Orientada a Objetos (OOP).
+- Tratamento, seleção, agrupamento e análise exploratória de dados.
+- Trabalhar com diversidade de arquivos: CSV, JSON, HTML, XML, Planilhas Excel e Banco de dados SQL.
+- Geração de gráficos e estatísticas para analise de tendências.
+- Machine Learning com SKlearn.
 
-Estou ansioso para enfrentar novos desafios e aplicar meus conhecimentos para ajudá-lo a obter os melhores resultados possíveis. 🚀📈
+Já concluir diversos cursos e elaborei alguns pequenos projetos. Estou ansioso para enfrentar novos desafios e aplicar meus conhecimentos para ajudá-lo a obter os melhores resultados possíveis. 🚀📈
 
 ## Ferramentas
 
