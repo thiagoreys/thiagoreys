@@ -1,4 +1,5 @@
 # Olá, eu sou o Thiago Reis! 🚀
+Atualmente estou estudando:
 
 - ⚛️ Licenciando em Física - IFMA
 - 🎲 Ciência de Dados - Alura
