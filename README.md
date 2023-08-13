@@ -1,4 +1,5 @@
-# Olá, eu sou o Thiago Reis! 🚀
+# Olá, bem-vindo ao meu perfil! 🚀
+
 Atualmente estou estudando:
 
 - ⚛️ Licenciando em Física - IFMA
