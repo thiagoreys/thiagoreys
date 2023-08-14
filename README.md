@@ -17,17 +17,17 @@ Atualmente estou estudando:
 
 Já concluir diversos cursos e elaborei alguns pequenos projetos. Estou ansioso para enfrentar novos desafios e aplicar meus conhecimentos para ajudá-lo a obter os melhores resultados possíveis. 🚀📈
 
-## Ferramentas Utilizadas
+## Ferramentas utilizadas
 
 <section>
  <!-- Language icons -->
  <p align="left">
  <!-- Python -->
  <a href="https://www.python.org" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></code></a>
-  <!-- Pandas -->
- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></code></a>
  <!-- Jupyter -->
  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter_lab" width="40" height="40"/></code></a>
+  <!-- Pandas -->
+ <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><code><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></code></a>
  <!-- Numpy -->
  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="seaborn" width="40" height="40"/></code></a>
  <!-- Git -->
