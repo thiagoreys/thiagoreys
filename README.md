@@ -12,7 +12,7 @@ Atualmente estou estudando:
 - Programação Orientada a Objetos (OOP).
 - Tratamento, seleção, agrupamento e análise exploratória de dados.
 - Trabalhar com diversidade de arquivos: CSV, JSON, HTML, XML, Planilhas Excel e Banco de dados SQL.
-- Geração de gráficos e estatísticas para análise de tendências.
+- Geração de Gráficos Estatísticos para análise de tendências.
 - Análise preditiva com Machine Learning.
 
 Já concluir diversos cursos e elaborei alguns pequenos projetos. Estou ansioso para enfrentar novos desafios e aplicar meus conhecimentos para ajudá-lo a obter os melhores resultados possíveis. 🚀📈
