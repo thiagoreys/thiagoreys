@@ -17,7 +17,7 @@ Atualmente estou estudando:
 
 Já concluir diversos cursos e elaborei alguns pequenos projetos. Estou ansioso para enfrentar novos desafios e aplicar meus conhecimentos para ajudá-lo a obter os melhores resultados possíveis. 🚀📈
 
-## Ferramentas
+## Ferramentas Utilizadas
 
 <section>
  <!-- Language icons -->
