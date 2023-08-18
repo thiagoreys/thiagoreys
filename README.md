@@ -2,7 +2,7 @@
 
 Atualmente estou estudando:
 
-- ⚛️ Licenciando em Física - IFMA
+- ⚛️ Licenciatura em Física - IFMA
 - 🎲 Ciência de Dados - Alura
 
 # Competências Dev
