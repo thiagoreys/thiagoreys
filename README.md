@@ -12,7 +12,7 @@ Atualmente estou estudando:
 - Programação Orientada a Objetos (OOP).
 - Tratamento, seleção, agrupamento e análise exploratória de dados.
 - Trabalhar com diversidade de arquivos: CSV, JSON, HTML, XML, Planilhas Excel e Banco de dados SQL.
-- Plotagem de gráficos para análise de dados.
+- Plotagem de gráficos para visualização e análise de dados.
 - Predição e Classificação com Machine Learning.
 
 Já concluir diversos cursos e elaborei alguns pequenos projetos. Estou ansioso para enfrentar novos desafios e aplicar meus conhecimentos. 🚀📈
