@@ -15,7 +15,7 @@ Atualmente estou estudando:
 - Plotagem de gráficos para visualização e análise de dados.
 - Predição e Classificação com Machine Learning.
 
-Já concluir diversos cursos e elaborei alguns pequenos projetos. Estou ansioso para enfrentar novos desafios e aplicar meus conhecimentos. 🚀📈
+Já concluir diversos cursos e elaborei alguns pequenos projetos, estou ansioso para enfrentar novos desafios e aplicar meus conhecimentos para otimizar negócios. 🚀📈
 
 ## Ferramentas utilizadas
 
